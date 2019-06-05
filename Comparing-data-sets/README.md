@@ -6,9 +6,11 @@ These pieces of codes are for researchers to use to collect bibliographic inform
 
 They were created by Ba Xuan Nguyen, Jesse David Dinneen and Markus Luczak-Roesch (Victoria University of Wellington).
 
+
 Usage
 
 The researcher downloads the source code, modifies it to suit their study, compiles on whichever platforms they want it to run in
+
 
 Requirements
 - Windows (XP or newer), Mac OS X, or Linux
