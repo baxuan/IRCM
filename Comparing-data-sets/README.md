@@ -9,7 +9,7 @@ They were created by Ba Xuan Nguyen, Jesse David Dinneen and Markus Luczak-Roesc
 
 Usage
 
-The researcher downloads the source code, modifies it to suit their study, compiles on whichever platforms they want it to run in
+The researchers download the source code, modify it to suit their study, compiles on whichever platforms they want it to run in
 
 
 Requirements
