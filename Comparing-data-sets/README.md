@@ -18,3 +18,6 @@ Requirements
 - Python packages: csv, os
 - R 3.5.x
 - R pakages: stringr, dplyr, RCurl, jsonlite, countrycode, zipcode
+
+Contact
+ba.nguyen@vuw.ac.nz
