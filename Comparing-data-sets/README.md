@@ -19,5 +19,5 @@ Requirements
 - R 3.5.x
 - R pakages: stringr, dplyr, RCurl, jsonlite, countrycode, zipcode
 
-Contact
+Contact for discussion: 
 ba.nguyen@vuw.ac.nz
